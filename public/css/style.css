@@ -1,0 +1,9 @@
+html {
+    /*background: url(/images/bg.jpg) no-repeat center center fixed;*/
+    background-color: black;
+    -webkit-background-size: cover;
+    backdrop-filter: alpha(opacity=50);
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
